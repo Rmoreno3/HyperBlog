@@ -1,1 +1,3 @@
 Este es un texto de ejemplo, para aprender a usar git.
+
+y tambien de nuestro blog.
