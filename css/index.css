@@ -5,7 +5,19 @@
 }
 
 body {
+  color: orange;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 70%;
+  padding: 1em;
+  text-align: center;
+  border: 1px solid #DDD;
+}
+
+.container .post h1 {
+  font-size: 9  0px;
 }
 
