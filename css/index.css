@@ -11,13 +11,28 @@ body {
 }
 
 .container {
-  width: 70%;
-  padding: 1em;
-  text-align: center;
+  margin-top: 20px;
+  width: 60%;
+  text-align: left;
   border: 1px solid #DDD;
+  box-shadow: -3px 6px 29px -2px rgba(0,0,0,0.66);
 }
 
 .container .post h1 {
-  font-size: 9  0px;
+  font-size: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
+.cabezera {
+  text-align: left;
+  background: blue;
+  color: #FFF;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 25px;
+}
+
+.post {
+  padding: 1em;
+}
