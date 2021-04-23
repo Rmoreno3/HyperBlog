@@ -59,3 +59,10 @@ body {
 .post > p {
   margin-bottom: 10px;
 }
+
+.footer {
+  text-align: center;
+  font-weight: 700;
+  color: #FFF;
+  background-color: blue;
+}
