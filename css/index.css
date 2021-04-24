@@ -61,6 +61,8 @@ body {
 }
 
 .footer {
+  display: flex;
+  flex-direction: column;
   text-align: center;
   font-weight: 700;
   color: #FFF;
